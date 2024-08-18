@@ -1,0 +1,244 @@
+2024-08-18 12:35:44,024 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-18 12:37:51,959 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345 [295])
+2024-08-18 12:37:51,961 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345
+2024-08-18 12:37:51,962 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\aopalliance-1.0.jar
+2024-08-18 12:37:51,963 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\guice-5.1.0.jar
+2024-08-18 12:37:51,963 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\httpclient-4.5.14.jar
+2024-08-18 12:37:51,963 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\httpcore-4.4.16.jar
+2024-08-18 12:37:51,963 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\jansi-2.4.0.jar
+2024-08-18 12:37:51,963 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\jcl-over-slf4j-1.7.36.jar
+2024-08-18 12:37:51,964 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-artifact-3.9.5.jar
+2024-08-18 12:37:51,964 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-builder-support-3.9.5.jar
+2024-08-18 12:37:51,964 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-compat-3.9.5.jar
+2024-08-18 12:37:51,964 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-core-3.9.5.jar
+2024-08-18 12:37:51,965 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-embedder-3.9.5.jar
+2024-08-18 12:37:51,965 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-model-3.9.5.jar
+2024-08-18 12:37:51,965 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-model-builder-3.9.5.jar
+2024-08-18 12:37:51,965 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-plugin-api-3.9.5.jar
+2024-08-18 12:37:51,965 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-repository-metadata-3.9.5.jar
+2024-08-18 12:37:51,965 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-api-1.9.16.jar
+2024-08-18 12:37:51,965 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-connector-basic-1.9.16.jar
+2024-08-18 12:37:51,966 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-impl-1.9.16.jar
+2024-08-18 12:37:51,966 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-named-locks-1.9.16.jar
+2024-08-18 12:37:51,966 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-provider-3.9.5.jar
+2024-08-18 12:37:51,966 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-spi-1.9.16.jar
+2024-08-18 12:37:51,966 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-file-1.9.16.jar
+2024-08-18 12:37:51,966 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-http-1.9.16.jar
+2024-08-18 12:37:51,967 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-wagon-1.9.16.jar
+2024-08-18 12:37:51,967 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-util-1.9.16.jar
+2024-08-18 12:37:51,967 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-settings-3.9.5.jar
+2024-08-18 12:37:51,967 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-settings-builder-3.9.5.jar
+2024-08-18 12:37:51,967 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-shared-utils-3.3.4.jar
+2024-08-18 12:37:51,967 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-08-18 12:37:51,968 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-08-18 12:37:51,968 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-build-api-0.0.7.jar
+2024-08-18 12:37:51,968 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-cipher-2.0.jar
+2024-08-18 12:37:51,968 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-classworlds-2.7.0.jar
+2024-08-18 12:37:51,968 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-component-annotations-2.1.0.jar
+2024-08-18 12:37:51,968 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-interpolation-1.26.jar
+2024-08-18 12:37:51,968 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-sec-dispatcher-2.0.jar
+2024-08-18 12:37:51,968 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-utils-3.5.1.jar
+2024-08-18 12:37:51,969 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-file-3.5.3.jar
+2024-08-18 12:37:51,969 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-http-3.5.3.jar
+2024-08-18 12:37:51,969 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-http-shared-3.5.3.jar
+2024-08-18 12:37:51,969 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-provider-api-3.5.3.jar
+2024-08-18 12:37:51,971 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.3.jre [10])
+2024-08-18 12:37:51,972 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\com.google.guava_32.1.3.jre.jar
+2024-08-18 12:37:51,972 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [515])
+2024-08-18 12:37:51,972 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\slf4j.api_2.0.12.jar
+2024-08-18 12:37:51,972 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [22])
+2024-08-18 12:37:51,973 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-08-18 12:37:51,973 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [20])
+2024-08-18 12:37:51,973 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2024-08-18 12:37:51,973 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2024-08-18 12:37:51,974 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-08-18 12:37:51,974 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [48])
+2024-08-18 12:37:51,974 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-08-18 12:37:51,974 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.13.0 [53])
+2024-08-18 12:37:51,975 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\org.apache.commons.lang3_3.13.0.jar
+2024-08-18 12:37:51,975 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2024-08-18 12:37:51,975 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP ENVY\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-08-18 12:37:51,981 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\HPENVY~1\AppData\Local\Temp\m2e-archetypeGenerator8923410961423237694":
+2024-08-18 12:37:51,984 [Worker-21: Launching mavenrun-3f7d32d3-3bdc-4a7a-b5fa-629d84a75529] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DgroupId=com.StarAgile -DartifactId=com.StarAgile -Dversion=0.0.1-SNAPSHOT -Dpackage=com.StarAgile.com.StarAgile -DoutputDirectory="C:\ORANGE HRM PROJECT" -Dstyle.color=always -U archetype:generate
+2024-08-18 12:38:07,154 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\ORANGE HRM PROJECT\com.StarAgile\pom.xml
+2024-08-18 12:38:07,934 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.StarAgile:com.StarAgile:0.0.1-SNAPSHOT @ C:\ORANGE HRM PROJECT\com.StarAgile\pom.xml.
+2024-08-18 12:38:08,428 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.StarAgile/src/main/java
+2024-08-18 12:38:08,428 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.StarAgile/src/main/resources
+2024-08-18 12:38:08,431 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.StarAgile/src/test/java
+2024-08-18 12:38:08,431 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.StarAgile/src/test/resources
+2024-08-18 12:38:08,499 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-08-18 12:38:09,348 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:38:09,349 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 12:38:09,352 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:38:09,353 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 12:38:43,971 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:38:43,971 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 12:38:43,974 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:38:43,974 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 12:49:27,969 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.StarAgile:com.StarAgile:0.0.1-SNAPSHOT @ C:\ORANGE HRM PROJECT\com.StarAgile\pom.xml.
+2024-08-18 12:49:28,489 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/qameta/allure/allure-testng/2.27.0/allure-testng-2.27.0.pom
+2024-08-18 12:49:28,498 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/qameta/allure/allure-testng/2.27.0/allure-testng-2.27.0.pom
+2024-08-18 12:49:28,522 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/qameta/allure/allure-java-commons/2.27.0/allure-java-commons-2.27.0.pom
+2024-08-18 12:49:28,524 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/qameta/allure/allure-java-commons/2.27.0/allure-java-commons-2.27.0.pom
+2024-08-18 12:49:28,537 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/qameta/allure/allure-model/2.27.0/allure-model-2.27.0.pom
+2024-08-18 12:49:28,541 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/qameta/allure/allure-model/2.27.0/allure-model-2.27.0.pom
+2024-08-18 12:49:28,554 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.14.3/testng-6.14.3.pom
+2024-08-18 12:49:28,558 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.14.3/testng-6.14.3.pom
+2024-08-18 12:49:28,572 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.72/jcommander-1.72.pom
+2024-08-18 12:49:28,575 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.72/jcommander-1.72.pom
+2024-08-18 12:49:28,590 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.pom
+2024-08-18 12:49:28,593 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.pom
+2024-08-18 12:49:28,608 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/qameta/allure/allure-test-filter/2.27.0/allure-test-filter-2.27.0.pom
+2024-08-18 12:49:28,614 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/qameta/allure/allure-test-filter/2.27.0/allure-test-filter-2.27.0.pom
+2024-08-18 12:49:28,706 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/qameta/allure/allure-testng/2.27.0/allure-testng-2.27.0.jar
+2024-08-18 12:49:28,710 [Worker-11: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/qameta/allure/allure-testng/2.27.0/allure-testng-2.27.0.jar
+2024-08-18 12:49:28,726 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/qameta/allure/allure-java-commons/2.27.0/allure-java-commons-2.27.0.jar
+2024-08-18 12:49:28,788 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/qameta/allure/allure-test-filter/2.27.0/allure-test-filter-2.27.0.jar
+2024-08-18 12:49:28,788 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/qameta/allure/allure-model/2.27.0/allure-model-2.27.0.jar
+2024-08-18 12:49:28,793 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/qameta/allure/allure-test-filter/2.27.0/allure-test-filter-2.27.0.jar
+2024-08-18 12:49:28,793 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/qameta/allure/allure-model/2.27.0/allure-model-2.27.0.jar
+2024-08-18 12:49:28,912 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/qameta/allure/allure-java-commons/2.27.0/allure-java-commons-2.27.0.jar
+2024-08-18 12:49:29,246 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:49:29,247 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 12:49:29,251 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:49:29,251 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 12:49:30,053 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/qameta/allure/allure-testng/2.27.0/allure-testng-2.27.0-sources.jar
+2024-08-18 12:49:30,057 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/qameta/allure/allure-testng/2.27.0/allure-testng-2.27.0-sources.jar
+2024-08-18 12:49:30,060 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.qameta.allure:allure-testng:2.27.0
+2024-08-18 12:49:30,105 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/qameta/allure/allure-java-commons/2.27.0/allure-java-commons-2.27.0-sources.jar
+2024-08-18 12:49:30,116 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/qameta/allure/allure-java-commons/2.27.0/allure-java-commons-2.27.0-sources.jar
+2024-08-18 12:49:30,118 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.qameta.allure:allure-java-commons:2.27.0
+2024-08-18 12:49:30,154 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/qameta/allure/allure-model/2.27.0/allure-model-2.27.0-sources.jar
+2024-08-18 12:49:30,157 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/qameta/allure/allure-model/2.27.0/allure-model-2.27.0-sources.jar
+2024-08-18 12:49:30,159 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.qameta.allure:allure-model:2.27.0
+2024-08-18 12:49:30,406 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/qameta/allure/allure-test-filter/2.27.0/allure-test-filter-2.27.0-sources.jar
+2024-08-18 12:49:30,410 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/qameta/allure/allure-test-filter/2.27.0/allure-test-filter-2.27.0-sources.jar
+2024-08-18 12:49:30,413 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.qameta.allure:allure-test-filter:2.27.0
+2024-08-18 13:04:09,131 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:04:09,132 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:04:09,141 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:04:09,141 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:05:53,053 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:05:53,054 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:05:53,060 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:05:53,061 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:07:09,738 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:07:09,739 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:07:09,743 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:07:09,744 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:08:10,483 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:08:10,483 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:08:10,488 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:08:10,489 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:10:55,339 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:10:55,340 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:10:55,345 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:10:55,346 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:12:31,728 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:12:31,729 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:12:31,740 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:12:31,741 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:13:06,891 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:13:06,892 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:13:06,899 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:13:06,899 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:13:49,918 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:13:49,921 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:13:49,926 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:13:49,927 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:14:22,344 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:14:22,344 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:14:22,348 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:14:22,349 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:14:59,789 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:14:59,790 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:14:59,793 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:14:59,794 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:15:20,255 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:15:20,256 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:15:20,258 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:15:20,258 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:15:35,256 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:15:35,256 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:15:35,257 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:15:35,258 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:15:56,718 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:15:56,718 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:15:56,722 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:15:56,723 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:17:34,323 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:17:34,323 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:17:34,339 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:17:34,339 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:18:31,892 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:18:31,893 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:18:31,898 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:18:31,899 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:19:59,467 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:19:59,467 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:19:59,469 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:19:59,470 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:24:32,048 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:24:32,049 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:24:32,052 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:24:32,052 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:25:49,996 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:25:49,996 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:25:49,999 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:25:49,999 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:28:22,437 [Worker-36: Launching ExcelfileReading] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:28:22,438 [Worker-36: Launching ExcelfileReading] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:28:22,440 [Worker-36: Launching ExcelfileReading] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:28:22,440 [Worker-36: Launching ExcelfileReading] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:37:14,599 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:37:14,599 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:37:14,608 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:37:14,609 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:40:31,037 [Worker-42: Launching com.StarAgile_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:40:31,038 [Worker-42: Launching com.StarAgile_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:40:31,040 [Worker-42: Launching com.StarAgile_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:40:31,040 [Worker-42: Launching com.StarAgile_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:45:43,873 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:45:43,873 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:45:43,878 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:45:43,878 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:46:13,872 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:46:13,873 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:46:13,874 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:46:13,874 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:47:11,555 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:47:11,555 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:47:11,563 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:47:11,563 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:48:19,214 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:48:19,215 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:48:19,219 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:48:19,219 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:49:14,133 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:49:14,133 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:49:14,137 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:49:14,137 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:49:25,195 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:49:25,196 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:49:25,198 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:49:25,198 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:50:06,595 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:50:06,595 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:50:06,598 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:50:06,599 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:53:42,076 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:53:42,077 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:53:42,079 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:53:42,080 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:55:56,850 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:55:56,850 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:55:56,857 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:55:56,858 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:57:07,989 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:57:07,989 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:57:07,991 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:57:07,991 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
+2024-08-18 13:57:19,655 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:57:19,655 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\main\resources
+2024-08-18 13:57:19,658 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 13:57:19,658 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ORANGE HRM PROJECT\com.StarAgile\src\test\resources
